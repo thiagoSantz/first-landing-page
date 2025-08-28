@@ -14,27 +14,28 @@ Uma landing page com design limpo e seções estruturadas para apresentação de
 ## 🚀 Como executar
 
 # Bash
-# Clone este repositório
-git clone https://github.com/thiagoSantz/first-landing-page.git
+
+- **Clone este repositório
+- **git clone https://github.com/thiagoSantz/first-landing-page.git
 
 # Entre na pasta do projeto
-cd first-landing-page
 
-# Abra o arquivo index.html no navegador
-# Ou use um servidor local para melhor performance
-python -m http.server 8000
-# ou
-php -S localhost:8000
+- **cd first-landing-page**
+- **Abra o arquivo index.html no navegador**
+- **Ou use um servidor local para melhor performance**
+- **python -m http.server 8000**
+- **ou**
+- **php -S localhost:8000**
 
 ## 🛠️ Tecnologias utilizadas
 
-HTML5: Estrutura semântica da página
+- **HTML5: Estrutura semântica da página**
 
-CSS3: Estilização com Flexbox e variáveis CSS
+- **CSS3: Estilização com Flexbox e variáveis CSS**
 
-Google Fonts: Importação da fonte Roboto
+- **Google Fonts: Importação da fonte Roboto**
 
-Design System: Cores e espaçamentos consistentes
+- **Design System: Cores e espaçamentos consistentes**
 
 ## 📝 Estrutura do projeto
 
