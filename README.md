@@ -15,7 +15,7 @@ Uma landing page com design limpo e seções estruturadas para apresentação de
 
 # Bash
 # Clone este repositório
-git clone https://github.com/thiagoSantz/first-landing-page.git
+git clone https://github.com/seu-usuario/first-landing-page.git
 
 # Entre na pasta do projeto
 cd first-landing-page
@@ -42,7 +42,7 @@ first-landing-page/
 ├── index.html
 ├── style.css
 ├── README.md
-└── (imagens placeholder.jpg)
+└── (imagens favicon)
 
 ## 🎨 Paleta de cores
 
