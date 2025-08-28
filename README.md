@@ -43,7 +43,11 @@ first-landing-page/
 ├── index.html
 ├── style.css
 ├── README.md
-└── (imagens favicon)
+└── favicon/
+    ├── favicon.ico
+    ├── favicon-16x16.png
+    ├── favicon-32x32.png
+    └── apple-touch-icon.png
 
 ## 🎨 Paleta de cores
 
