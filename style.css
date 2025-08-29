@@ -67,7 +67,6 @@ a {
 .titleBox.one {
   display: flex;
   flex-direction: column;
-  align-items: flex-start;
   justify-content: space-between;
   gap: 12px;
 }
@@ -207,6 +206,7 @@ a {
   justify-content: space-between;
   align-items: center;
   padding: 20px 75px;
+  gap: 12px;
   background-color: #3882f6;
   color: #e5e5e5;
   border-radius: 5px;
@@ -234,7 +234,6 @@ a {
 /*#endregion*/
 
 /*#region media querie*/
-
 @media (max-width: 768px) {
   .header {
     padding: 12px;
@@ -246,10 +245,6 @@ a {
     flex-wrap: wrap;
     gap: 20px;
     text-align: center;
-  }
-
-  .title.one {
-
   }
 
   .button {
@@ -285,7 +280,7 @@ a {
 
   .title.final {
     text-align: center;
+    padding: 2px 0px;
   }
 }
-
 /*#endregion*/
