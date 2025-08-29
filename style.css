@@ -226,3 +226,44 @@ a {
     border: 1px solid rgba(255, 252, 252, 0.445);
 }
 /*#endregion*/
+
+/*#region media querie*/
+
+        /* ===== CELULAR (até 768px) ===== */
+@media (max-width: 768px) {
+    .caixa-externa {
+        padding: 15px;
+        flex-direction: column;
+    }
+    
+    .caixa-texto {
+        max-width: 100%; /* Ocupa toda a largura */
+        margin: 10px 0;
+    }
+    
+    .texto {
+        font-size: 1rem; /* Texto um pouco menor */
+        text-align: center; /* Centraliza no mobile */
+    }
+    
+    .subtitulo {
+        text-align: center; /* Centraliza no mobile */
+        font-size: 0.9rem;
+    }
+}
+
+/* ===== CELULAR PEQUENO (até 480px) ===== */
+@media (max-width: 480px) {
+    .caixa-externa {
+        padding: 10px;
+    }
+    
+    .texto {
+       font-size: 0.9rem;
+    }
+    
+    .subtitulo {
+        font-size: 0.8rem;
+    }
+}
+/*#endregion*/
