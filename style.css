@@ -245,6 +245,11 @@ a {
     padding: 12px 12px 24px 12px;
     flex-wrap: wrap;
     gap: 20px;
+    text-align: center;
+  }
+
+  .title.one {
+
   }
 
   .button {
@@ -265,6 +270,7 @@ a {
 
   .box.three {
     padding: 16px 20px;
+    text-align: center;
   }
 
   .footer {
