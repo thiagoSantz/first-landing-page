@@ -2,14 +2,10 @@
 
 /*#region Variáveis e inicialização*/
 :root {
-  --padding1: 12px 248px;
-  --padding2: 24px 248px;
-  --padding3: 24px 280px;
+  --padding1: 12px 212px;
+  --padding2: 24px 212px;
+  --padding3: 24px 220px;
   --maxWidth: 700px;
-
-  --padding1celular: 12px;
-  --padding2celular: 24px;
-  --maxWidthCelular: 200px;
 }
 
 * {
@@ -78,17 +74,20 @@ a {
 }
 
 .button {
+  width: auto;
+  align-self: flex-start;
+  padding: 6px 10px;
+  margin: 6px 0;
   color: #e5e5e5;
   border-radius: 6px;
   background-color: #3882f6;
-  padding: 6px 10px;
-  margin: 6px 0;
   font-weight: 550;
   box-shadow: 0 0 0 1px rgba(45, 64, 84, 0.5); /* Substitui por algo visual */
   border: 1px solid #5f7ea870;
   cursor: pointer;
   transition: all 0.2s ease;
 }
+
 .button:active {
   box-shadow: 0 0 0 3px rgba(0, 123, 255, 0.4);
   transform: translateY(2px);
