@@ -1,6 +1,6 @@
 # First Landing Page
 
-Uma landing page com design limpo e seções estruturadas para apresentação de conteúdo.
+Uma landing page com design limpo e seções estruturadas para apresentação de conteúdo. Funciona tanto em telas de desktop quanto para dispositivos móveis.
 
 ## 📋 Funcionalidades
 
@@ -44,10 +44,6 @@ first-landing-page/
 ├── style.css
 ├── README.md
 └── favicon/
-    ├── favicon.ico
-    ├── favicon-16x16.png
-    ├── favicon-32x32.png
-    └── apple-touch-icon.png
 
 ## 🎨 Paleta de cores
 
@@ -70,7 +66,7 @@ Para personalizar esta landing page:
 
 ## 📱 Responsividade
 
-O layout utiliza Flexbox para organização dos elementos, tornando-o adaptável a diferentes tamanhos de tela. Para melhorar ainda mais a responsividade, considere adicionar media queries para ajustes em dispositivos móveis.
+O layout utiliza Flexbox para organização dos elementos, tornando-o adaptável a diferentes tamanhos de tela. Funciona tanto para desktop quanto para dispositivos móveis.
 
 ## 📄 Licença
 Este projeto está sob a licença MIT. Veja o arquivo LICENSE para mais detalhes.
