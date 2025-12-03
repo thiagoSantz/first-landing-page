@@ -39,11 +39,13 @@ Design System: Cores e espaçamentos consistentes
 
 ## 📝 Estrutura do projeto
 
+```
 first-landing-page/
 ├── index.html
 ├── style.css
 ├── README.md
 └── favicon/
+```
 
 ## 🎨 Paleta de cores
 
